@@ -1,2 +1,3 @@
 some cofigurations that were checked in after init
 need to pull this file down
+additional configuration from my local laptop
